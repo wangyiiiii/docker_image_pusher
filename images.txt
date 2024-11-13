@@ -4,3 +4,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 chainmakerofficial/management-backend:v2.3.4
 chainmakerofficial/management-web:v2.3.4
+mysql:5.7
