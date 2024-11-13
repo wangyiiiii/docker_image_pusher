@@ -2,6 +2,4 @@
 #opengrok/docker
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-chainmakerofficial/management-backend:v2.3.4
-chainmakerofficial/management-web:v2.3.4
-mysql:5.7
+chainmakerofficial/chainmaker-vm-engine:v2.3.4
