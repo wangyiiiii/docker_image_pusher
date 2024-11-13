@@ -2,11 +2,5 @@
 #opengrok/docker
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-penpotapp/frontend:latest
-penpotapp/backend:latest
-penpotapp/exporter:latest
-postgres:15
-redis:7.2
-sj26/mailcatcher:latest
-traefik:v2.9
-minio/minio:latest
+chainmakerofficial/management-backend:v2.3.4
+chainmakerofficial/management-web:v2.3.4
