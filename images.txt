@@ -2,4 +2,4 @@
 #opengrok/docker
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-chainmakerofficial/chainmaker-vm-engine:v2.3.4
+ghcr.io/open-webui/open-webui:main
