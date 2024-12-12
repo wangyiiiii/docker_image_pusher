@@ -4,3 +4,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/intfish/theia:latest
 node:18-alpine
+golang:1.21-alpine
