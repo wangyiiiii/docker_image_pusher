@@ -8,3 +8,4 @@ golang:1.21-alpine
 nginx:alpine
 alpine:latest
 nginx:latest
+nginx:1.25.3-alpine
