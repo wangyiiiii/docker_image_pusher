@@ -3,3 +3,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 secretflow/secretflow-lite-anolis8
+chainmakerofficial/chainmaker-go:v2.3.0
