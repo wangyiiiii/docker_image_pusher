@@ -33,4 +33,5 @@
 #docker.io/nvidia/cuda:12.4.0-devel-ubuntu22.04
 #eosphorosai/dbgpt-allinone:latest
 #eosphorosai/dbgpt:latest
-owasp/modsecurity-crs:nginx
+#owasp/modsecurity-crs:nginx
+gcr.io/knative-releases/knative.dev/net-istio/cmd/controller
