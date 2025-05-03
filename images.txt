@@ -34,5 +34,5 @@
 #eosphorosai/dbgpt-allinone:latest
 #eosphorosai/dbgpt:latest
 #owasp/modsecurity-crs:nginx
-#gcr.io/knative-releases/knative.dev/net-istio/cmd/controller
-gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:e70bc675f97778da144157f125b3001124ba7a5903b85dab9e77776352fea1c7
+gcr.io/knative-releases/knative.dev/net-istio/cmd/controller
+#gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:e70bc675f97778da144157f125b3001124ba7a5903b85dab9e77776352fea1c7
