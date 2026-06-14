@@ -39,4 +39,5 @@
 #gcr.io/istio-release/pilot:1.24.3
 #gcr.io/istio-release/proxyv2:1.24.3
 #ghcr.io/intergalacticalvariable/reader:latest
---platform linux/arm64 ollama/ollama
+#--platform linux/arm64 ollama/ollama
+ossrs/srs:5
