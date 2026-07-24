@@ -41,7 +41,8 @@
 #ghcr.io/intergalacticalvariable/reader:latest
 #--platform linux/arm64 ollama/ollama
 #ossrs/srs:5
-nginx:1.30
-node:22.23.1-bookworm
-golang:1.25.12-bookworm
-debian:bookworm-slim
+#nginx:1.30
+#node:22.23.1-bookworm
+#golang:1.25.12-bookworm
+#debian:bookworm-slim
+postgres:14.23-bookworm
