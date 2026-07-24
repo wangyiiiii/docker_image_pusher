@@ -45,4 +45,4 @@
 #node:22.23.1-bookworm
 #golang:1.25.12-bookworm
 #debian:bookworm-slim
-postgres:14.23-bookworm
+--platform=linux/arm64 postgres:14.23-bookworm
